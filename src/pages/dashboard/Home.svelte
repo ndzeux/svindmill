@@ -139,7 +139,7 @@
     </div>
     <span>View more &RightArrow;</span>
   </a>
-  <a class="flex items-center justify-between p-4 mb-8 text-sm font-semibold text-purple-100 bg-purple-600 rounded-lg shadow-md focus:outline-none focus:shadow-outline-purple mt-4"
+  <a class="flex items-center justify-between p-4 mb-8 text-sm font-semibold text-purple-100 bg-purple-600 rounded-lg shadow-md focus:outline-none focus:shadow-outline-purple -mt-4"
     href="https://github.com/ndzeux/svindmill">
     <div class="flex items-center">
       <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20">
