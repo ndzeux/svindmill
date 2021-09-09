@@ -32,7 +32,7 @@ function serve() {
 export default {
 	input: 'src/main.js',
 	output: {
-		sourcemap: true,
+		sourcemap: false,
 		format: 'es',
 		name: 'app',
 		dir: 'public/build/',
